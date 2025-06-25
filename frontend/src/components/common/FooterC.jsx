@@ -3,7 +3,7 @@ import { MDBFooter } from 'mdb-react-ui-kit';
 
 export default function FooterC() {
   return (
-    <MDBFooter style={{height: '112px', marginTop: '101px'}} bgColor='dark' className='text-center text-lg-left'>
+    <MDBFooter style={{height: '100px', marginTop: '101px'}} bgColor='dark' className='text-center text-lg-left'>
       <div className='text-center p-3'>
         <p className='text-light'>
           ComplaintCare
